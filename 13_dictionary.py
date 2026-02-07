@@ -15,3 +15,9 @@ dict.update({'kudna':'jump',
               'chalna':'walk',
               0:'run'})
 print(dict)
+
+newd = {
+    'hi':1,
+    'hi':2
+}
+print(newd)
