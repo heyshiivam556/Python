@@ -19,3 +19,5 @@ num = int(input('enter a num:'))
 
 #star pattern 
 for i in range(num):
+    print('*'*(i+1),end='')
+    print('')
